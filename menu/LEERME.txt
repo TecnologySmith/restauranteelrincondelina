@@ -1,0 +1,1 @@
+Reemplaza esta carpeta con el archivo menu.pdf real del restaurante. El botón "Ver menú completo" apunta a menu/menu.pdf.
